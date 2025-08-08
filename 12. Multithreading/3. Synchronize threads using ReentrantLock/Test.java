@@ -1,0 +1,1 @@
+//Write a Java program that uses the ReentrantLock class to synchronize access to a shared resource among multiple threads.

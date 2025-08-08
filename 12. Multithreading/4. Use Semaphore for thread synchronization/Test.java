@@ -1,0 +1,1 @@
+//Write a Java program to demonstrate Semaphore usage for thread synchronization.

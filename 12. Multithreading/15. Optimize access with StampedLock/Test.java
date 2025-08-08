@@ -1,0 +1,1 @@
+//Write a Java program that utilizes the StampedLock class for optimizing concurrent read-write access to a shared resource.

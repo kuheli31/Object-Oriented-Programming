@@ -1,0 +1,1 @@
+//Write a Java program that utilizes the ConcurrentLinkedQueue class to implement a thread-safe queue.

@@ -1,0 +1,1 @@
+//Write a Java program to illustrate the usage of the ReadWriteLock interface for concurrent read-write access to a shared resource.
